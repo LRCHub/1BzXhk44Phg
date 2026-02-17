@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クリーマー（レディオ・イズ・デッド）",
+  "base_artist": "Limp Bizkit",
+  "createdAt": "2026-02-17T11:22:38.759080Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Creamer (Radio Is Dead)",
+      "artist": "Limp Bizkit",
+      "has_synced": false,
+      "path": "select/pl_01_Creamer_(Radio_Is_Dead)_Limp_Bizkit.txt"
+    }
+  ]
+}
